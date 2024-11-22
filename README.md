@@ -1,4 +1,6 @@
-<h3 align="center">Hi 👋! My name is Yoviar Pauzi and I'm a fullstack developer, from Indonesia</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yoviar+Pauzi!;" />
+</h1>
 
 ###
 
