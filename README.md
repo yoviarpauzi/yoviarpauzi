@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h2 align="center">Hi there👋!, My name is Yoviar Pauzi</h2>
+<h2 align="center">Hi there👋, My name is Yoviar Pauzi</h2>
 <h3 align="center">I'm a Fullstack Developer, from Indonesia🇮🇩</h3>
 
 ###
