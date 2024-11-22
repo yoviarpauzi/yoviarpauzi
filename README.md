@@ -2,15 +2,11 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img height="170" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF4MHBlMzB6M3g4a3YzZ2F4M3Iyd201MjV0M2c5c2N5MWhrMGRocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111ebonMs90YLu/giphy.gif"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yoviarpauzi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
