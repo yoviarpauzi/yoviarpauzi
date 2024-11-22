@@ -1,5 +1,3 @@
-<br clear="both">
-
 <p align="center">Hi 👋! My name is Yoviar Pauzi and I'm a Fullstack Developer, from Indonesia🇮🇩</p>
 
 ###
