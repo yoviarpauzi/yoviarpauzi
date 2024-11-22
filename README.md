@@ -1,4 +1,4 @@
-[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZ4MDJsdXJqbXJuaGpkemY3cnVzemJsbWM5eWVxeHNnNnFzN2dheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwtYgX4buYMJw0hJeA/giphy.gif)]
+[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2N3djU4dzljdnhvZzN1NmhrZGVrcHFvejNmODduMGNlMndnZTRkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif)]
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yoviar+Pauzi!;" />
 </h1>
