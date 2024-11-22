@@ -1,3 +1,4 @@
+[![MasterHead](<img width="650" height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWppcDVpeXphcDkzNHRncXVoYjNjenZscGJveDhkazZ1ajg1dTY3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GeimqsH0TLDt4tScGw/giphy.gif"  />)]
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yoviar+Pauzi!;" />
 </h1>
