@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/yoviarpauzi/count.svg?"  />
+ <img src="https://komarev.com/ghpvc/?username=yoviarpauzi&color=blue&style=flat" />
 </div>
 
 ###
